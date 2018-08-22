@@ -1,0 +1,18 @@
+ORIE5270 HW1
+Minjing Liu
+
+
+1. AWS: Amazon Web Service is a powerful cloud service platform providing functionality of computing, data storage, content delivery, etc. 
+1.1 Material covered: launch EC2 instance by using AMI, create a new key pair, download key file, connect to instance by Public DNS
+1.2 Why matters: AWS offers users to work in a virtual environment with high efficiency and more flexibility 
+
+2. Linux: an open source operating system
+1.1 Material covered: commonly-used command lines
+1.2 Why matters: Linux is popular and heavily used due to its excellence in terms of performance, functionality, flexibility and portability. 
+
+3. Git: a version control system 
+1.1 Material covered: generate and add SSH key, create repo, branch(create new branch, check current branch), pull and push files from branch
+1.2 Why matters: it is designed for project management that facilitates project tracking and collaboration.
+
+4. Shell: a command interpreter where users can input through it. Some main functions of shell are to display a prompt, read a command, process and execute the command.
+
